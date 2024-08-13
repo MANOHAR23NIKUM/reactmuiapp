@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "username": "manohar",
+        "email": "nikum@gmail.com",
+        "city": "pune",
+        "phone": 1234568789
+      },
+      {
+        "id": "7c9d",
+        "username": "ram",
+        "email": "ram@gmail.com",
+        "city": "ndb",
+        "phone": "35346743746"
+      },
+      {
+        "id": "465f",
+        "username": "manu",
+        "email": "manu23@gmail.com",
+        "city": "ndb",
+        "phone": "3456342345"
+      }
+    ]
+  }
